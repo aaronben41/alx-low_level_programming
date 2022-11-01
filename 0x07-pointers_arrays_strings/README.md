@@ -1,6 +1,6 @@
-File 0-memset.c is a function that fill memory with a constant byte.
+1. File 0-memset.c is a function that fill memory with a constant byte.
 
-File 1-memcpy.c is a function that copies memory area.
+2. File 1-memcpy.c is a function that copies memory area.
 
 File 2-strchr.c is a function that locates a character in a string.
 
