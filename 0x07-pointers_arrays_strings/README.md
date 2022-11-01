@@ -1,12 +1,12 @@
-1. File 0-memset.c is a function that fill memory with a constant byte.
+0. File 0-memset.c is a function that fill memory with a constant byte.
 
-2. File 1-memcpy.c is a function that copies memory area.
+1. File 1-memcpy.c is a function that copies memory area.
 
-File 2-strchr.c is a function that locates a character in a string.
+2. File 2-strchr.c is a function that locates a character in a string.
 
-File 3-strspn.c is a function that gets the length of a prefix substring.
+3. File 3-strspn.c is a function that gets the length of a prefix substring.
 
-File 4-strpbrk.c is a function that searches a string for any of a set of bytes.
+4. File 4-strpbrk.c is a function that searches a string for any of a set of bytes.
 
 File 5-strstr.c is a function that locates a substring.
 
