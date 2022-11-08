@@ -1,6 +1,6 @@
 # 0x09 - C - Static libraries
 
-In this project, static libraries are created using `ar`, `ranlib`, and `nm`.
+In this C project, static libraries are created using `ar`, `ranlib`, and `nm`.
 
 ## Tests :heavy_check_mark:
 
