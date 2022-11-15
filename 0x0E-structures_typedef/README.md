@@ -1,6 +1,7 @@
 # 0x0E- c - structures_typedef
 
-In this project, I learned about using structures and `typedef` in C.
+In this project, I learnedu
+about using structures and `typedef` in C.
 
 ## Header File :file_folder:
 
